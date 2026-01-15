@@ -97,7 +97,7 @@ Akribis motion systems are widely used in **semiconductor equipment, precision a
     Configure motion controller parameters, perform axis tuning, execute motion programs, and monitor system performance using ACS SPIIPlus tools.
   </td>
   <td style="text-align:center; padding:10px; background-color:#ffffff;">
-    <a href="link" style="color:#007bff;">SPIIPlus</a>
+    <a href="https://github.com/Motion-Control-AKribis-System/ACS-SPiiPlus" style="color:#007bff;">SPIIPlus</a>
   </td>
 </tr>
 
