@@ -112,6 +112,16 @@ Akribis motion systems are widely used in **semiconductor equipment, precision a
 </tr>
 
 <tr>
+  <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fff3cd;">🏭 <strong>Elmo Software</strong></td>
+  <td style="padding:10px; background-color:#ffffff;">
+    Program and configure Elmo PLC or servo systems, manage I/O logic, and integrate motion sequences with the overall control architecture.
+  </td>
+  <td style="text-align:center; padding:10px; background-color:#ffffff;">
+    <a href="link" style="color:#007bff;">Elmo</a>
+  </td>
+</tr> 
+
+<tr>
   <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fff3cd;">🏭 <strong>Mitsubishi Software</strong></td>
   <td style="padding:10px; background-color:#ffffff;">
     Program and configure Mitsubishi PLC or servo systems, manage I/O logic, and integrate motion sequences with the overall control architecture.
