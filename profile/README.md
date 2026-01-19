@@ -69,7 +69,7 @@ Akribis motion systems are widely used in **semiconductor equipment, precision a
     Central gang chat used to coordinate Akribis System 2026 project stages, milestones, task alignment, and overall timeline planning.
   </td>
   <td style="text-align:center; padding:10px; background-color:#ffffff;">
-    <a href="link" style="color:#007bff;">Gang Chat</a>
+    <a href="https://app.clickup.com/9008166139/v/o/s/90080399630" style="color:#007bff;">Gang Chat</a>
   </td>
 </tr>
 <tr>
